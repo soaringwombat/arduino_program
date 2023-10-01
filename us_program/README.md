@@ -1,7 +1,7 @@
 # 環境
-Arduino IDE 1.8.57
-Arduino Leonardo(互換品)
-超音波センサ(HC-SR04)
+- Arduino IDE 1.8.57
+- Arduino Leonardo(互換品)
+- 超音波センサ(HC-SR04)
 
 # 使い方
 1. Arduino IDEでus_program/us_program.inoを開く
